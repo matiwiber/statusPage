@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Ministerio de Seguridad",
     "url": "https://www.mseg.gba.gov.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.mseg.gba.gov.ar.ico",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2082,
-    "timeDay": 2082,
-    "timeWeek": 2082,
-    "timeMonth": 2082,
-    "timeYear": 2082,
+    "time": 2079,
+    "timeDay": 2079,
+    "timeWeek": 2079,
+    "timeMonth": 2079,
+    "timeYear": 2079,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-02": 273
+      "2023-03-02": 279
     }
   },
   {
@@ -72,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-02": 273
+      "2023-03-02": 279
     }
   },
   {
@@ -86,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1304,
-    "timeDay": 1304,
-    "timeWeek": 1304,
-    "timeMonth": 1304,
-    "timeYear": 1304,
+    "time": 1213,
+    "timeDay": 1213,
+    "timeWeek": 1213,
+    "timeMonth": 1213,
+    "timeYear": 1213,
     "dailyMinutesDown": {}
   }
 ]
