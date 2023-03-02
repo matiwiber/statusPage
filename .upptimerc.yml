@@ -1,12 +1,11 @@
 # Change these first
 owner: matiwiber # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
-user-agent: matiwiber
+# user-agent: matiwiber
 sites:
-  - name: Google
-    url: www.google.com
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar 
+    method: GET
   - name: Mi Portal 
     url: https://miportal.mseg.gba.gov.ar
   - name: Antecedentes
@@ -25,11 +24,11 @@ status-website:
   # cname: demo.upptime.js.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Service
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Status Service** es una pagina de estado que indica si los servicios estan activos"
+  introMessage: This is a sample status page which uses **real-time**. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /
+      href: /status-page
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
