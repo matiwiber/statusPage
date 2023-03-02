@@ -5,12 +5,12 @@ repo: status-page # The name of this repository
 sites:
   - name: Ministerio de Seguridad
     url: www.mseg.gba.gov.ar 
-  - name: Mi Portal 
-    url: https://miportal.mseg.gba.gov.ar/
+  - name: El Dia
+    url: https://www.eldia.com/
   - name: Antecedentes
     url: https://antecedentes.mseg.gba.gov.ar
-  - name: Subjefatura Policia
-    url: www.policia.mseg.gba.gov.ar
+  - name: Infobae
+    url: https://www.infobae.com/
 
 # assignees:
   # - matiwiber
