@@ -1,8 +1,8 @@
 [
   {
     "name": "Ministerio de Seguridad",
-    "url": "https://www.mseg.gba.gov.ar",
-    "icon": "https://icons.duckduckgo.com/ip3/www.mseg.gba.gov.ar.ico",
+    "url": "www.mseg.gba.gov.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ministerio-de-seguridad",
     "status": "up",
     "uptime": "100.00%",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2079,
-    "timeDay": 2079,
-    "timeWeek": 2079,
-    "timeMonth": 2079,
-    "timeYear": 2079,
+    "time": 2177,
+    "timeDay": 2177,
+    "timeWeek": 2177,
+    "timeMonth": 2177,
+    "timeYear": 2177,
     "dailyMinutesDown": {}
   },
   {
     "name": "Mi Portal",
-    "url": "https://miportal.mseg.gba.gov.ar",
+    "url": "https://miportal.mseg.gba.gov.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/miportal.mseg.gba.gov.ar.ico",
     "slug": "mi-portal",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-02": 279
+      "2023-03-02": 296
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-02": 279
+      "2023-03-02": 296
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 1213,
-    "timeWeek": 1213,
-    "timeMonth": 1213,
-    "timeYear": 1213,
+    "time": 1223,
+    "timeDay": 1223,
+    "timeWeek": 1223,
+    "timeMonth": 1223,
+    "timeYear": 1223,
     "dailyMinutesDown": {}
   }
 ]
