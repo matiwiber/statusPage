@@ -3,6 +3,8 @@ owner: matiwiber # Your GitHub organization or username, where this repository l
 repo: status-page # The name of this repository
 user-agent: matiwiber
 sites:
+  - name: Google
+    url: www.google.com
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar 
   - name: Mi Portal 
