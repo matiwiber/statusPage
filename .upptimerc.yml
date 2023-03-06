@@ -6,6 +6,10 @@ user-agent: matiwiber
 sites:
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar/
+  - name: Mi Portal
+    url: https://miportal.mseg.gba.gov.ar/
+  - name: Antecedentes
+    url: https://antecedentes.mseg.gba.gov.ar/
 
 assignees:
   - matiwiber
