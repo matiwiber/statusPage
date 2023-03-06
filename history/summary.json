@@ -4,19 +4,19 @@
     "url": "https://www.mseg.gba.gov.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mseg.gba.gov.ar.ico",
     "slug": "ministerio-de-seguridad",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2081,
-    "timeDay": 1950,
-    "timeWeek": 2081,
-    "timeMonth": 2081,
-    "timeYear": 2081,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2102,
+    "timeDay": 2023,
+    "timeWeek": 2102,
+    "timeMonth": 2102,
+    "timeYear": 2102,
     "dailyMinutesDown": {
-      "2023-03-06": 1
+      "2023-03-06": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 1409,
+      "2023-03-06": 1414,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 1409,
+      "2023-03-06": 1415,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
