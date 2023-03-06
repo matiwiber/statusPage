@@ -4,9 +4,9 @@
     "url": "https://www.mseg.gba.gov.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mseg.gba.gov.ar.ico",
     "slug": "ministerio-de-seguridad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2069,
     "timeMonth": 2069,
     "timeYear": 2069,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Mi Portal",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 840,
+      "2023-03-06": 1363,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
@@ -58,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 840,
+      "2023-03-06": 1363,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
