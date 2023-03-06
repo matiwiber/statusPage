@@ -1,11 +1,14 @@
 # Change these first
 owner: matiwiber # Your GitHub organization or username, where this repository lives
 repo: statusPage # The name of this repository
+user-agent: matiwiber
 
 sites:
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar/
-  
+
+assignees:
+  - matiwiber
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,8 +16,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statusPage
   logoUrl: https://www.mseg.gba.gov.ar/assets_/img/logo_ministerio.svg
-  name: Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Status-Page
+  introTitle: "**Status Page** is the open-source uptime monitor and status page, this page is a demo for the Ministerio de Seguridad powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
