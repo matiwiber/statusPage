@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2208,
-    "timeDay": 2117,
-    "timeWeek": 2192,
-    "timeMonth": 2208,
-    "timeYear": 2208,
+    "time": 2194,
+    "timeDay": 2075,
+    "timeWeek": 2173,
+    "timeMonth": 2194,
+    "timeYear": 2194,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-03-11": 1147,
+      "2023-03-11": 1155,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 1147,
+      "2023-03-11": 1155,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redpol.mseg.gba.gov.ar.ico",
     "slug": "red-pol",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 13
+      "2023-03-11": 21
     }
   }
 ]
