@@ -12,8 +12,10 @@ sites:
     port: 80
   - name: Antecedentes
     url: https://antecedentes.mseg.gba.gov.ar/
+    port: 80
   - name: RedPol
     url: http://redpol.mseg.gba.gov.ar/
+    port: 80
 
 assignees:
   - matiwiber
