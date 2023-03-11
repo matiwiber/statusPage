@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2208,
-    "timeDay": 2083,
-    "timeWeek": 2191,
-    "timeMonth": 2208,
-    "timeYear": 2208,
+    "time": 2204,
+    "timeDay": 2084,
+    "timeWeek": 2186,
+    "timeMonth": 2204,
+    "timeYear": 2204,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 1131,
+      "2023-03-11": 1134,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 1131,
+      "2023-03-11": 1134,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -73,6 +73,26 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 503
+    }
+  },
+  {
+    "name": "RedPol",
+    "url": "http://redpol.mseg.gba.gov.ar/",
+    "icon": "https://icons.duckduckgo.com/ip3/redpol.mseg.gba.gov.ar.ico",
+    "slug": "red-pol",
+    "status": "down",
+    "uptime": "26.51%",
+    "uptimeDay": "26.51%",
+    "uptimeWeek": "26.51%",
+    "uptimeMonth": "26.51%",
+    "uptimeYear": "26.51%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-03-11": 0
     }
   }
 ]
