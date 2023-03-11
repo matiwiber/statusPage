@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2170,
-    "timeDay": 2024,
-    "timeWeek": 2142,
-    "timeMonth": 2170,
-    "timeYear": 2170,
+    "time": 2167,
+    "timeDay": 2026,
+    "timeWeek": 2138,
+    "timeMonth": 2167,
+    "timeYear": 2167,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "mi-portal",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.28%",
+    "uptimeDay": "0.33%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2023-03-11": 1165,
       "2023-03-10": 1440,
@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 1169,
+      "2023-03-11": 1170,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redpol.mseg.gba.gov.ar.ico",
     "slug": "red-pol",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 35
+      "2023-03-11": 36
     }
   }
 ]
