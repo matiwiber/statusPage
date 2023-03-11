@@ -9,7 +9,7 @@ sites:
   - name: Mi Portal
     check: "tcp-ping"
     url: https://miportal.mseg.gba.gov.ar/
-    port: 80
+    port: 443
   - name: Antecedentes
     url: https://antecedentes.mseg.gba.gov.ar/
     port: 80
