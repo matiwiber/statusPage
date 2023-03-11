@@ -7,7 +7,9 @@ sites:
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar/
   - name: Mi Portal
+    check: "tcp-ping"
     url: https://miportal.mseg.gba.gov.ar/
+    method: GET
   - name: Antecedentes
     url: https://antecedentes.mseg.gba.gov.ar/
 
