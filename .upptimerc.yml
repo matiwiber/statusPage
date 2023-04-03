@@ -6,16 +6,7 @@ user-agent: matiwiber
 sites:
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar/
-  - name: Mi Portal
-    check: "tcp-ping"
-    url: https://miportal.mseg.gba.gov.ar/
-    port: 443
-  - name: Antecedentes
-    url: https://antecedentes.mseg.gba.gov.ar/
-    port: 80
-  - name: RedPol
-    url: http://redpol.mseg.gba.gov.ar/
-    port: 80
+  
 
 assignees:
   - matiwiber
