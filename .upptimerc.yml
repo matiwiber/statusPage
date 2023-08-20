@@ -6,6 +6,10 @@ user-agent: matiwiber
 sites:
   - name: Ministerio de Seguridad
     url: https://www.mseg.gba.gov.ar/
+  - name: Mi Portal
+    check: "tcp-ping"
+    url: 170.155.221.66
+    port: 443
   
 
 assignees:
